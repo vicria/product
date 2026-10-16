@@ -1,0 +1,21 @@
+**/build/
+**/src/main/**/build/
+**/src/test/**/build/
+bin/
+**/src/main/**/bin/
+**/src/test/**/bin/
+**/.gradle
+**/gradle/wrapper/gradle-wrapper.jar
+
+
+
+# Intellij Idea
+.idea
+out/
+**/src/main/**/out/
+**/src/test/**/out/
+
+# macOS
+.DS_Store
+
+**/target/**
